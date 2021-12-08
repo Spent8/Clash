@@ -1,0 +1,17 @@
+### 2021-12-08 13:40  
+### >>> 矿机专用
+payload:
+## >> 矿机专用
+  - DOMAIN-SUFFIX,ethermine.org
+  - DOMAIN-SUFFIX,f2pool.com
+  - DOMAIN-SUFFIX,antpool.com
+  - DOMAIN-SUFFIX,hiveon.net
+  - DOMAIN-SUFFIX,2miners.com
+  - DOMAIN-SUFFIX,hiveos.farm
+  - DOMAIN-SUFFIX,roninchain.com
+  - DOMAIN-SUFFIX,iothingstoday.com
+  - DOMAIN-SUFFIX,iothingstoday.com
+  - DOMAIN-SUFFIX,poolin.com
+  - IP-CIDR,103.117.146.150/8
+  - IP-CIDR,123.57.226.189/8
+  - IP-CIDR,34.92.52.150/8
